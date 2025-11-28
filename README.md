@@ -50,7 +50,7 @@ CTE for Salary Cost
 
   📂 Project Files
   https://github.com/amudipeayomide/SQL-parks-and-employee-analysis
-  https://github.com/amudipeayomide/SQL-parks-and-employee-analysis/README.md
+
 
 > click on this link above to see the queries of my analysis.
 
